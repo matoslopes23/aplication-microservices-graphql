@@ -1,4 +1,4 @@
-# Ignite Lab 01
+# Microservices and Graphql
 
 - NestJS
 - GraphQL
